@@ -12,7 +12,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://djbb7.github.io/
-baseurl: /website/
+baseurl: /
 title: Daniel Bruzual
 author: Daniel Bruzual
 description: Computer Engineer, Software Developer, Entrepreneur.
