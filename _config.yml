@@ -1,6 +1,6 @@
 # top level stuff you probably don't need to touch
 highlighter: rouge
-markdown: rdiscount
+#markdown: rdiscount
 rdiscount:
   extensions: [smart]
 permalink: /:title.html
@@ -20,7 +20,8 @@ avatar: profile.png
 email: danielbruzual@gmail.com
 github: djbb7 # username
 #twitter: username
-linkedin: username
+telegram:dbruzual
+linkedin: dbruzual
 #stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
 #disqus: username
