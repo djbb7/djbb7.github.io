@@ -1,5 +1,5 @@
 # top level stuff you probably don't need to touch
-highlighter: pygments
+highlighter: rouge
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
@@ -11,19 +11,19 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
-baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
-description: Personal blog and resume
+url: http://djbb7.github.io/
+baseurl: /website/
+title: Daniel Bruzual
+author: Daniel Bruzual
+description: Computer Engineer, Software Developer, Entrepreneur.
 avatar: profile.png
-email: yourname@email.com
-github: biomadeira/sustain # username
-twitter: username
+email: danielbruzual@gmail.com
+github: djbb7 # username
+#twitter: username
 linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
+#stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
-disqus: username
+#disqus: username
 google_analytics: UA-69391421-1
 
 
