@@ -182,3 +182,18 @@ div.footer{
   padding-bottom: 15px;
   
 }*/
+
+
+/***** My mods *****/
+
+.panel-body h3 {
+	    text-align: center;
+}
+
+.no-padding-top {
+		padding-top: 0px;
+}
+
+section#projects {
+		 margin-top: 30px;
+}
