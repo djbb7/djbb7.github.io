@@ -197,3 +197,13 @@ div.footer{
 section#projects {
 		 margin-top: 30px;
 }
+
+img.project-banner {
+		   width: 70%;
+		   margin: 0 auto;
+}
+
+div.project-banner {
+	   text-align: center;
+	   margin-bottom: 30px;
+}
