@@ -207,3 +207,17 @@ div.project-banner {
 	   text-align: center;
 	   margin-bottom: 30px;
 }
+
+.page {
+    text-align: left;
+    font-size: 18px;
+}
+
+.page p {
+  padding-top: 10px;
+}
+
+h4.internship {
+  font-weight: bold;
+  font-style: italic;
+}
