@@ -229,3 +229,7 @@ h4.internship {
   font-weight: bold;
   font-style: italic;
 }
+
+.avatar img {
+	width: 227px;
+}
