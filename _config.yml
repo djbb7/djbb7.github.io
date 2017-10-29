@@ -13,15 +13,15 @@ safe: true
 # edit here to achieve your personal greatness
 url: http://djbb7.github.io/
 baseurl: /
-title: Daniel Bruzual - Mobile and Backend Developer
+title: Daniel Bruzual - Software Architect, Computer Engineer
 author: Daniel Bruzual
-description: Computer Engineer, Software Developer, Entrepreneur.
+description: Computer Engineer, Software Architect.
 avatar: profile.jpg
 email: danielbruzual@gmail.com
 github: djbb7 # username
-#twitter: username
+twitter: danbruzual
 telegram: dbruzual
-linkedin: dbruzual
+linkedin: danbruzual
 #stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
 #disqus: username
