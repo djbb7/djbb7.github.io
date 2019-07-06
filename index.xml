@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Bruzual</title>
+    <link>http://bruzual.me/</link>
+    <description>Recent content on Daniel Bruzual</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jul 2019 18:14:28 +0300</lastBuildDate>
+    
+	<atom:link href="http://bruzual.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Salsa Dancing</title>
+      <link>http://bruzual.me/salsa/</link>
+      <pubDate>Sat, 06 Jul 2019 18:14:28 +0300</pubDate>
+      
+      <guid>http://bruzual.me/salsa/</guid>
+      <description>Starting January 2019 I joined a Salsa class for the first time in my life. Coming from a caribbean country it is one of those things that I am expected to know, and I want to know. However, I never got around to learning.
+Situations where people asked me to dance where always a source of anxiety for me. Finally this year I decided to overcome my fears and learn. Dancing has become an incredible source of joy!</description>
+    </item>
+    
+    <item>
+      <title>Now</title>
+      <link>http://bruzual.me/now/</link>
+      <pubDate>Sat, 06 Jul 2019 18:14:20 +0300</pubDate>
+      
+      <guid>http://bruzual.me/now/</guid>
+      <description>At the moment I am based in Helsinki but traveling quite often to Düsseldorf for work.
+I am learning to dance salsa at Tanzhaus NRW with Janis and Zoe.
+I am planning my holiday trip to Brazil in September 2019.
+I am training for the Dolomyths Skyrace 23km that takes place in Canazei. I finally sign up, 5 years after I discovered the race online.</description>
+    </item>
+    
+    <item>
+      <title>About Daniel</title>
+      <link>http://bruzual.me/about/</link>
+      <pubDate>Sat, 06 Jul 2019 18:14:13 +0300</pubDate>
+      
+      <guid>http://bruzual.me/about/</guid>
+      <description>Hi. I am a Software Engineer interested in automation and with a drive to create useful software. I am currently working at Eficode as a Devops Consultant. I live in Helsinki but travel quite often to Düsseldorf.
+My biggest passions are mountain hiking, storytelling and making useful stuff.</description>
+    </item>
+    
+  </channel>
+</rss>
