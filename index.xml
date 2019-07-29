@@ -6,10 +6,21 @@
     <description>Recent content on Daniel Bruzual</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jul 2019 18:14:28 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2019 18:14:28 +0300</lastBuildDate>
     
 	<atom:link href="http://bruzual.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Playbook</title>
+      <link>http://bruzual.me/playbook/</link>
+      <pubDate>Mon, 29 Jul 2019 18:14:28 +0300</pubDate>
+      
+      <guid>http://bruzual.me/playbook/</guid>
+      <description>The following is a list of values that are important in my life. They are the principles that dictate how I like to live.
+Compiling them into a list means that they are not only feelings or abstract ideas in my mind, but concrete ideas that I can develop further. By writing them down, I expect to remember them in everyday life.
+These values have come from own experiences, and also from people I admire.</description>
+    </item>
     
     <item>
       <title>Salsa Dancing 💃</title>
@@ -17,12 +28,12 @@
       <pubDate>Sat, 06 Jul 2019 18:14:28 +0300</pubDate>
       
       <guid>http://bruzual.me/salsa/</guid>
-      <description>Starting January 2019 I joined a Salsa class for the first time in my life. Coming from a caribbean country it is one of those things that I am expected to know. However, I never got around to learning. Situations where someone asked me to dance where always a source of anxiety for me.
-Finally this year I decided to overcome my fears and learn. Dancing has become an incredible source of joy!</description>
+      <description>Starting January 2019 I joined a Salsa class for the first time in my life. Before, I would become very anxious in situations where someone might ask me to dance. Especially coming from a caribbean country and being expected to know. Finally I decided to overcome my fears and learn. Dancing has become an incredible source of joy!
+Here are some of the steps that we learnt during the courses with Janis and Zoe at Tanzhaus NRW:</description>
     </item>
     
     <item>
-      <title>Now</title>
+      <title>What I am doing now</title>
       <link>http://bruzual.me/now/</link>
       <pubDate>Sat, 06 Jul 2019 18:14:20 +0300</pubDate>
       
